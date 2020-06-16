@@ -7,4 +7,6 @@
 
 //  6/13/20 I learned about ips and how to lauch a instance with certain data like a webpage with content along with how to use apache and started another instance
 
-// 6/14/20  I learned about enis and the many different launch types along with good times to use them.
+// 6/15/20  I learned about enis and the many different launch types along with good times to use them.
+
+// 6/16/20  I have learned about the high availability and scalability
