@@ -9,4 +9,4 @@
 
 // 6/15/20  I learned about enis and the many different launch types along with good times to use them.
 
-// 6/16/20  I have learned about the high availability and scalability
+// 6/16/20  I have learned about the high availability and scalability, created my first load balancer, learned about albs and load balancing stickiness
