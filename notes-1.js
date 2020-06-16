@@ -6,3 +6,5 @@
 //  6/12/20 I learned about security groups and how they work with incoming and outgoing info from and too the instance
 
 //  6/13/20 I learned about ips and how to lauch a instance with certain data like a webpage with content along with how to use apache and started another instance
+
+// 6/14/20  I learned about enis and the many different launch types along with good times to use them.
