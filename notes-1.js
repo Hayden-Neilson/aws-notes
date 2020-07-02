@@ -13,4 +13,5 @@
 
 // 6/18/2020  Elastic Load Balancer - Connection Draining, Elastic Load Balancer - Cross Zone Load
 // Balancing, Auto Scaling Groups (ASG) Overview
-//
+//7/1/20
+// i learned how to set up a audto scaling group and how it operates
