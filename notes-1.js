@@ -15,3 +15,5 @@
 // Balancing, Auto Scaling Groups (ASG) Overview
 //7/1/20
 // i learned how to set up a auto scaling group and how it operates
+
+// 7/13/2020 - learned how auto scaling systems work!
